@@ -11,3 +11,8 @@
 1. 全屏
 2. 从上到下，依次是中空的圈 -> 文字描述和图片  -> 按钮区域
 
+## 效果图
+![视觉稿](https://github.com/hite/UserGuideView/blob/master/UserGuideView/5cfbcee79d7b4ca5838d8d8d434ebe2f_d90ed6a563f114092d11917bb6f948fd.jpg)
+
+## demo
+demo 工程实际展示了如何引入，更多设置见源码注释。
